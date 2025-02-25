@@ -1,0 +1,10 @@
+h1{
+    left: 500pt;
+    color: darkgreen;
+    position: relative;
+}
+.Cabecario{
+    border-style: solid;
+    height: 150px;
+    background-color: bisque;
+}
